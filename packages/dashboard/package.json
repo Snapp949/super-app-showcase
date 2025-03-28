@@ -19,7 +19,7 @@
     "check-deps": "rnx-align-deps"
   },
   "dependencies": {
-    "@bottom-tabs/react-navigation": "0.7.8",
+    "@bottom-tabs/react-navigation": "0.8.9",
     "@module-federation/enhanced": "0.7.1",
     "@react-native-async-storage/async-storage": "2.0.0",
     "@react-navigation/native": "7.0.14",
